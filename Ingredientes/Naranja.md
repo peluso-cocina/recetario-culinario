@@ -2,20 +2,21 @@
 foto: ''
 etiquetas:
   - Ingrediente
-  - Seta
-categoria: Verduras y hortalizas
+categoria: Frutas
 temporada:
-  - Septiembre
-  - Octubre
+  - Enero
+  - Febrero
+  - Marzo
+  - Abril
   - Noviembre
   - Diciembre
-precio_kg:
+precio_kg: 0
 unidad_compra: kg
 perecedero: true
-conservacion:
+conservacion: ''
 alergenos: []
-sustitutos:
+sustitutos: []
 recetas_relacionadas:
-  - '[[Tagliatelle ai funghi]]'
+  - '[[Screwdriver]]'
 base: '[[Ingredientes.base]]'
 ---

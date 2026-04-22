@@ -1,5 +1,5 @@
 ---
-foto: ''
+foto: https://substackcdn.com/image/fetch/$s_!FfQv!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07e6af92-4d20-4081-8cb2-aeb9ec17506b_3024x3024.heic
 tipo_comida:
   - Almuerzo
   - Cena
@@ -8,6 +8,10 @@ etiquetas:
   - Pasta
   - Vegetariana
 temporada:
+  - Septiembre
+  - Octubre
+  - Noviembre
+  - Diciembre
 ingredientes: '[[Setas variadas]]'
 coste_racion: 0
 raciones: 2
@@ -23,7 +27,11 @@ accesorios:
 link_web: https://pelusococina.substack.com/p/setas-pasta-y-otros-favoritismos
 dificultad: Baja
 congelable: false
+base: '[[Recetas.base]]'
 ---
+
+![](https://substackcdn.com/image/fetch/$s_!FfQv!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07e6af92-4d20-4081-8cb2-aeb9ec17506b_3024x3024.heic)
+
 # Tagliatelle ai funghi
 
 ## Descripción

@@ -1,15 +1,13 @@
 ---
-foto: ''
+foto:
 tipo_comida:
   - Almuerzo
   - Cena
 etiquetas:
   - Vegetariana
-  -
+  - 
 temporada:
-  - [[]]
 ingredientes:
-  - [[]]
 coste_racion: 0
 raciones: 2
 info_nutricional:
@@ -26,6 +24,7 @@ accesorios: []
 link_web:
 dificultad: Baja
 congelable: false
+base: "[[Recetas.base]]"
 ---
 
 # Nombre de la Receta

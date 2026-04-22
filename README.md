@@ -19,10 +19,12 @@ Recetario personal en formato Markdown, pensado para usar en Obsidian y conectar
 
 ## Flujo recomendado
 
-1. Crear receta nueva desde `Plantillas/Nueva receta.md`.
-2. Añadir ingredientes en `ingredientes` con enlaces wiki (`[[Ingrediente]]`).
-3. Crear o completar fichas en `Ingredientes/` desde `Plantillas/Nuevo ingrediente.md`.
-
+1. Clónate el repo y [abre la carpeta como bóveda](https://obsidian.md/help/manage-vaults#Create+vault+from+an+existing+folder).
+2. Añadir la carpeta `Plantillas` en Opciones > Complementos. Crear receta nueva desde `Plantillas/Nueva receta.md`. 
+3. Añadir ingredientes en `ingredientes` con enlaces wiki (`[[Ingrediente]]`).
+4. Crear o completar fichas en `Ingredientes/` desde `Plantillas/Nuevo ingrediente.md`.
+## Complementos recomendados
+- [Dataview](obsidian://show-plugin?id=dataview) (para ver las imágenes)
 ## Convenciones
 
 - Usar nombres claros y consistentes en notas (ejemplo: `Tomate.md`).

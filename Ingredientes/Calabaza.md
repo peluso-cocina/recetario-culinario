@@ -2,20 +2,19 @@
 foto: ''
 etiquetas:
   - Ingrediente
-  - Seta
 categoria: Verduras y hortalizas
 temporada:
+  - Julio
+  - Agosto
   - Septiembre
   - Octubre
-  - Noviembre
-  - Diciembre
-precio_kg:
+precio_kg: 0
 unidad_compra: kg
 perecedero: true
-conservacion:
+conservacion: ''
 alergenos: []
-sustitutos:
+sustitutos: []
 recetas_relacionadas:
-  - '[[Tagliatelle ai funghi]]'
+  - '[[Risotto de calabaza]]'
 base: '[[Ingredientes.base]]'
 ---

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == "Recetas"
+    - base == link("Recetas.base")
+views:
+  - type: table
+    name: Tabla
+    order:
+      - file.name
+      - tipo_comida
+      - etiquetas
+      - temporada
+      - ingredientes
+      - coste_racion
+      - tiempo_elaboracion
+      - dificultad
+      - congelable

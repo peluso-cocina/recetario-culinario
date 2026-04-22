@@ -1,0 +1,15 @@
+filters:
+  and:
+    - base == link("Ingredientes.base")
+    - file.folder == "Ingredientes"
+views:
+  - type: table
+    name: Tabla
+    order:
+      - file.name
+      - categoria
+      - temporada
+      - precio_kg
+      - unidad_compra
+      - perecedero
+      - recetas_relacionadas
