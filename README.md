@@ -1,6 +1,6 @@
 # Recetario Culinario
 
-Recetario personal en formato Markdown, pensado para usar en Obsidian y conectar recetas, ingredientes, temporada y costes mediante enlaces internos.
+Recetario personal en formato Markdown, pensado para usar en Obsidian.md y conectar recetas, ingredientes, temporada y costes mediante enlaces internos.
 
 ## Objetivo del proyecto
 
@@ -24,7 +24,7 @@ Recetario personal en formato Markdown, pensado para usar en Obsidian y conectar
 3. Añadir ingredientes en `ingredientes` con enlaces wiki (`[[Ingrediente]]`).
 4. Crear o completar fichas en `Ingredientes/` desde `Plantillas/Nuevo ingrediente.md`.
 ## Complementos recomendados
-- [Dataview](obsidian://show-plugin?id=dataview) (para ver las imágenes)
+- [Dataview](obsidian://show-plugin?id=dataview)
 ## Convenciones
 
 - Usar nombres claros y consistentes en notas (ejemplo: `Tomate.md`).

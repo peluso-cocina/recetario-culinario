@@ -30,8 +30,6 @@ base: '[[Recetas.base]]'
 
 # Risotto a la Milanesa
 
-## Descripción
-
 Sirve como risotto base para cualquier otro también si no se le añade azafrán.
 
 ## Ingredientes

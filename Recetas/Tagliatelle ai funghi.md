@@ -34,8 +34,6 @@ base: '[[Recetas.base]]'
 
 # Tagliatelle ai funghi
 
-## Descripción
-
 Mi receta favorita
 
 ## Ingredientes
