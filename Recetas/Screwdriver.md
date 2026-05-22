@@ -1,6 +1,7 @@
 ---
 foto: https://substackcdn.com/image/fetch/$s_!_z8Q!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a860d98-1bab-487d-8289-d33189d963d7_3024x3024.jpeg
 tipo_comida:
+  - Bebida
 etiquetas:
   - Cocktail
 temporada:
@@ -10,7 +11,8 @@ temporada:
   - Febrero
   - Marzo
   - Abril
-ingredientes: '[[Naranja]]'
+ingredientes:
+  - "[[Naranja]]"
 coste_racion: 0
 raciones: 1
 info_nutricional:
@@ -27,9 +29,8 @@ accesorios: []
 link_web: https://pelusococina.substack.com/p/1959
 dificultad: Baja
 congelable: false
-base: '[[Recetas.base]]'
+base: "[[Recetas.base]]"
 ---
-
 ![](https://substackcdn.com/image/fetch/$s_!_z8Q!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a860d98-1bab-487d-8289-d33189d963d7_3024x3024.jpeg)
 
 # Screwdriver

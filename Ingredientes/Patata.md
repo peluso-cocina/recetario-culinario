@@ -1,0 +1,22 @@
+---
+foto: ""
+etiquetas:
+  - Ingrediente
+categoria:
+temporada:
+  - Mayo
+  - Junio
+  - Julio
+  - Agosto
+  - Septiembre
+  - Octubre
+precio_kg: 0
+unidad_compra: kg
+perecedero: true
+conservacion: ""
+alergenos: []
+sustitutos: []
+recetas_relacionadas: []
+base: "[[Ingredientes.base]]"
+---
+

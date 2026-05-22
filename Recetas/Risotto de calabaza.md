@@ -11,7 +11,9 @@ temporada:
   - Agosto
   - Septiembre
   - Octubre
-ingredientes: "[[Calabaza]]"
+ingredientes:
+  - "[[Calabaza]]"
+  - "[[Cebolla]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:
@@ -23,14 +25,13 @@ info_nutricional:
   proteina:
   sal:
 alergenos: []
-tiempo_elaboracion: 1h
+tiempo_elaboracion: 1 h
 accesorios: []
 link_web: https://pelusococina.substack.com/p/cookin-macarrones
 dificultad: Media
 congelable: false
 base: "[[Recetas.base]]"
 ---
-
 ![](https://substackcdn.com/image/fetch/$s_!DZsn!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29899caa-8868-45d9-bb08-7edb439b5403_3024x3024.jpeg)
 
 # Risotto de calabaza

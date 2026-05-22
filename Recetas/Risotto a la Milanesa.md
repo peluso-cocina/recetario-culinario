@@ -2,11 +2,13 @@
 foto: https://substackcdn.com/image/fetch/$s_!L38K!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d56c411-f849-4ea2-bcd8-4e2654421e29_3024x3024.jpeg
 tipo_comida:
   - Almuerzo
+  - Cena
 etiquetas:
   - Vegetariana
-  -
+  - 
 temporada:
 ingredientes:
+  - "[[Cebolla]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:
@@ -23,9 +25,8 @@ accesorios: []
 link_web: https://pelusococina.substack.com/p/cookin-macarrones
 dificultad: Baja
 congelable: false
-base: '[[Recetas.base]]'
+base: "[[Recetas.base]]"
 ---
-
 ![](https://substackcdn.com/image/fetch/$s_!L38K!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d56c411-f849-4ea2-bcd8-4e2654421e29_3024x3024.jpeg)
 
 # Risotto a la Milanesa

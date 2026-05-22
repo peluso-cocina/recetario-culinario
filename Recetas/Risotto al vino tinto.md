@@ -5,9 +5,10 @@ tipo_comida:
   - Cena
 etiquetas:
   - Vegetariana
-  -
+  - 
 temporada:
 ingredientes:
+  - "[[Cebolla]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:
@@ -19,14 +20,13 @@ info_nutricional:
   proteina:
   sal:
 alergenos: []
-tiempo_elaboracion: 25min
+tiempo_elaboracion: 25 min
 accesorios: []
 link_web: https://pelusococina.substack.com/p/cookin-macarrones
 dificultad: Baja
 congelable: false
-base: '[[Recetas.base]]'
+base: "[[Recetas.base]]"
 ---
-
 ![](https://substackcdn.com/image/fetch/$s_!1pfS!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae45fb4f-8c07-4578-9624-682c6ce9b49f_3024x3024.jpeg)
 
 Este risotto fue un descubrimiento para mi porque está buenísimo y es igual o más sencillo aún de preparar que el anterior pero sólo hay que cambiar un par de ingredientes. Los ingredientes son exactamente los mismos que en la receta anterior pero hay que cambiar el vino blanco por un **vaso entero de vino tinto** y no lleva azafrán. El vino que uséis aquí pues lo de siempre: que sea uno que os vayáis a beber pero tampoco hace falta que sea caro.

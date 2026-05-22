@@ -5,9 +5,10 @@ tipo_comida:
   - Cena
 etiquetas:
   - Vegetariana
-  - 
+  -
 temporada:
 ingredientes:
+  -
 coste_racion: 0
 raciones: 2
 info_nutricional:
@@ -24,10 +25,8 @@ accesorios: []
 link_web:
 dificultad: Baja
 congelable: false
-base: "[[Recetas.base]]"
+base: '[[Recetas.base]]'
 ---
-
-# Nombre de la Receta
 
 ## Descripción
 
