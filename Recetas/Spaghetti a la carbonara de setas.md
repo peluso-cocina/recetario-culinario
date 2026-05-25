@@ -32,7 +32,7 @@ dificultad: Baja
 congelable: false
 base: "[[Recetas.base]]"
 ---
-![[IMG_1295.jpeg]]
+![](https://substackcdn.com/image/fetch/$s_!PMG8!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23d5922d-db21-433e-8d5b-7d62a1fed933_3024x3024.jpeg)
 
 Receta [adaptada de esta otra con shiitake](https://elpais.com/gastronomia/recetas/2018/12/19/receta/1545236811_450764.html) y añadiendo un toque de miso.
 

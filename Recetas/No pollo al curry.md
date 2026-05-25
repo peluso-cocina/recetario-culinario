@@ -28,7 +28,7 @@ dificultad: Baja
 congelable: true
 base: "[[Recetas.base]]"
 ---
-![[IMG_1320.jpeg]]
+![](https://substackcdn.com/image/fetch/$s_!QI1i!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65a31018-7710-4d28-956e-843dca7b6e8f_3024x3024.jpeg)
 
 Una interpretación del pollo al curry que me preparaba mi madre pero en versión vegana.
 

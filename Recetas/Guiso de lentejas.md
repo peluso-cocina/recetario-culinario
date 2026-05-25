@@ -25,11 +25,12 @@ accesorios:
   - Olla
 link_web:
 dificultad: Baja
-congelable: false
+congelable: true
 base: "[[Recetas.base]]"
 ---
+![](https://substackcdn.com/image/fetch/$s_!USLZ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cee1e6b-c57b-466f-894b-4c6b2daf395b_3024x3024.heic)
 
-Guiso clásico que casi todas las semanas como
+Guiso clásico que casi todas las semanas preparo
 
 ## Ingredientes
 
@@ -46,7 +47,7 @@ Guiso clásico que casi todas las semanas como
 - Aceite de oliva
 - 1,2 L de agua
 - Sal
-- 1 pastilla de caldo de verduras
+- 1 pastilla de caldo de verduras (o usar caldo de verduras en lugar de agua)
 ## Elaboración
 
 1. Ponemos en remojo las lentejas alrededor de 1 hora antes.

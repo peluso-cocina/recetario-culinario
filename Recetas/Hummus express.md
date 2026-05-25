@@ -26,7 +26,7 @@ dificultad: Baja
 congelable: false
 base: "[[Recetas.base]]"
 ---
- ![[IMG_1316.jpeg]]
+ ![](https://substackcdn.com/image/fetch/$s_!3T3U!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95abb9e0-d9e6-4aba-8cc8-94c87b1c9dc6_2518x2518.jpeg)
 
 Receta express usando un bote pequeño de garbanzos si no quieres hacer mucha cantidad.
 

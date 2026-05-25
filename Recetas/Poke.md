@@ -27,7 +27,7 @@ dificultad: Baja
 congelable: false
 base: "[[Recetas.base]]"
 ---
-![[IMG_1332.jpeg]]
+![](https://substackcdn.com/image/fetch/$s_!VWID!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F930597c5-297b-49ac-aac6-8d13ce9102ad_3024x3024.jpeg)
 
 Este plato en verdad se puede hacer con lo que mas te guste. 
 

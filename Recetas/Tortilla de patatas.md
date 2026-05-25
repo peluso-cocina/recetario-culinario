@@ -27,7 +27,7 @@ dificultad: Baja
 congelable: false
 base: "[[Recetas.base]]"
 ---
-![[IMG_1310.jpeg]]
+![](https://substackcdn.com/image/fetch/$s_!KCMX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bfba594-0d19-425c-a5a4-07db9cc0e96d_3024x3024.jpeg)
 
 Sí. Sin cebolla. Receta adaptada del [video de Alfredo Vozmediano](https://www.youtube.com/watch?v=epbWlp2FyxM). Para mí el punto de la tortilla perfecto.
 ## Ingredientes
