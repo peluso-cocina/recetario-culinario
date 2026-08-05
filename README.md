@@ -13,14 +13,13 @@ Recetario personal en formato Markdown, pensado para usar en Obsidian.md y conec
 ## Estructura
 
 - `Recetas/`: recetas finales en Markdown.
-- `Ingredientes/`: fichas de ingredientes enlazables.
+- `Ingredientes/`: fichas de ingredientes enlazables en las recetas.
 - `Plantillas/`: plantillas base para nuevas recetas e ingredientes.
-- `.obsidian/`: configuración de Obsidian y plugins del vault.
 
 ## Flujo recomendado
 
-1. Clónate el repo y [abre la carpeta como bóveda](https://obsidian.md/help/manage-vaults#Create+vault+from+an+existing+folder).
-2. Añadir la carpeta `Plantillas` en Opciones > Complementos. Crear receta nueva desde `Plantillas/Nueva receta.md`. 
+1. Clónate el repo y [abre la carpeta como bóveda](https://obsidian.md/help/manage-vaults#Create+vault+from+an+existing+folder). También puedes clonártelo desde el [complemento de Git](https://community.obsidian.md/plugins/obsidian-git) de la comunidad.
+2. Añadir la carpeta `Plantillas` en Opciones > Plantillas. Crear receta nueva desde `Plantillas/Nueva receta.md`. 
 3. Añadir ingredientes en `ingredientes` con enlaces wiki (`[[Ingrediente]]`).
 4. Crear o completar fichas en `Ingredientes/` desde `Plantillas/Nuevo ingrediente.md`.
 ## Complementos recomendados
