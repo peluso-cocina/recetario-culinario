@@ -2,7 +2,7 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria:
+categoria: Verduras y hortalizas
 temporada:
   - Enero
   - Febrero

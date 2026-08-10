@@ -2,14 +2,11 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Cereales
 temporada:
-  - Mayo
-  - Junio
-  - Julio
 precio_kg: 0
 unidad_compra: kg
-perecedero: true
+perecedero: false
 conservacion: ""
 alergenos: []
 sustitutos: []

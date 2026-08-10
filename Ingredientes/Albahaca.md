@@ -2,11 +2,14 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Hierbas y especias
 temporada:
   - Mayo
   - Junio
   - Julio
+  - Agosto
+  - Septiembre
+  - Octubre
 precio_kg: 0
 unidad_compra: kg
 perecedero: true

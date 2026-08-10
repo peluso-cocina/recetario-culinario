@@ -2,7 +2,7 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Hierbas y especias
 temporada:
   - Marzo
   - Abril
@@ -12,19 +12,13 @@ temporada:
   - Agosto
   - Septiembre
   - Octubre
-  - Noviembre
-  - Diciembre
 precio_kg: 0
 unidad_compra: kg
 perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas:
-  - "[[No pollo al curry]]"
-  - "[[Risotto de calabaza]]"
-  - "[[Risotto a la Milanesa]]"
-  - "[[Risotto al vino tinto]]"
-  - "[[Spaghetti a la carbonara de setas]]"
+recetas_relacionadas: []
 base: "[[Ingredientes.base]]"
 ---
+

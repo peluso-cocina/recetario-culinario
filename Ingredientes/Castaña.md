@@ -2,14 +2,14 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Frutos secos y oleaginosos
 temporada:
-  - Mayo
-  - Junio
-  - Julio
+  - Octubre
+  - Noviembre
+  - Diciembre
 precio_kg: 0
 unidad_compra: kg
-perecedero: true
+perecedero: false
 conservacion: ""
 alergenos: []
 sustitutos: []

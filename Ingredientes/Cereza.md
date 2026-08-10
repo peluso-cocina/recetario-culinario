@@ -2,7 +2,7 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Frutas
 temporada:
   - Mayo
   - Junio

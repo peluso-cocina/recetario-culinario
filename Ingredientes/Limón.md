@@ -2,7 +2,7 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria:
+categoria: Frutas
 temporada:
   - Enero
   - Febrero

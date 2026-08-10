@@ -2,14 +2,15 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Legumbres
 temporada:
+  - Marzo
+  - Abril
   - Mayo
   - Junio
-  - Julio
 precio_kg: 0
 unidad_compra: kg
-perecedero: true
+perecedero: false
 conservacion: ""
 alergenos: []
 sustitutos: []

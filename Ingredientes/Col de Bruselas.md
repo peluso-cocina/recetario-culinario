@@ -4,9 +4,11 @@ etiquetas:
   - Ingrediente
 categoria: Verduras y hortalizas
 temporada:
-  - Mayo
-  - Junio
-  - Julio
+  - Enero
+  - Febrero
+  - Octubre
+  - Noviembre
+  - Diciembre
 precio_kg: 0
 unidad_compra: kg
 perecedero: true

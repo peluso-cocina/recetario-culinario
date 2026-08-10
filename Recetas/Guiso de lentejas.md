@@ -8,7 +8,7 @@ temporada:
 ingredientes:
   - "[[Ajo]]"
   - "[[Cebolla]]"
-  - "[[Ingredientes/Lentejas|Lentejas]]"
+  - "[[Lenteja|Lenteja]]"
 coste_racion: 0
 raciones: 4
 info_nutricional:

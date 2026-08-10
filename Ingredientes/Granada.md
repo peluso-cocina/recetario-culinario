@@ -2,11 +2,11 @@
 foto: ""
 etiquetas:
   - Ingrediente
-categoria: Verduras y hortalizas
+categoria: Frutas
 temporada:
-  - Mayo
-  - Junio
-  - Julio
+  - Septiembre
+  - Octubre
+  - Noviembre
 precio_kg: 0
 unidad_compra: kg
 perecedero: true
