@@ -8,7 +8,9 @@ etiquetas:
   - 
 temporada:
 ingredientes:
+  - "[[Arroz]]"
   - "[[Cebolla]]"
+  - "[[Chalota]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:

@@ -21,10 +21,11 @@ conservacion: ""
 alergenos: []
 sustitutos: []
 recetas_relacionadas:
+  - "[[Guiso de lentejas]]"
   - "[[No pollo al curry]]"
-  - "[[Risotto de calabaza]]"
   - "[[Risotto a la Milanesa]]"
   - "[[Risotto al vino tinto]]"
+  - "[[Risotto de calabaza]]"
   - "[[Spaghetti a la carbonara de setas]]"
 base: "[[Ingredientes.base]]"
 ---

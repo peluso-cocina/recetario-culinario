@@ -15,7 +15,8 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Enchiladas norteñas]]"
 base: "[[Ingredientes.base]]"
 ---
 

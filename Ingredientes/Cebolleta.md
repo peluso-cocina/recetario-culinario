@@ -19,7 +19,8 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Mapo tofu]]"
 base: "[[Ingredientes.base]]"
 ---
 

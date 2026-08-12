@@ -12,8 +12,12 @@ temporada:
   - Septiembre
   - Octubre
 ingredientes:
+  - "[[Arroz]]"
   - "[[Calabaza]]"
   - "[[Cebolla]]"
+  - "[[Chalota]]"
+  - "[[Salvia]]"
+  - "[[Tomillo]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:

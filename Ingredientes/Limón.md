@@ -19,6 +19,8 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Hummus express]]"
+  - "[[Mayonesa]]"
 base: "[[Ingredientes.base]]"
 ---

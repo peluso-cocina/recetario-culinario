@@ -8,7 +8,10 @@ etiquetas:
   - Vegan
 temporada:
 ingredientes:
-  - 
+  - "[[Arroz]]"
+  - "[[Mango]]"
+  - "[[Pepino]]"
+  - "[[Aguacate]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:

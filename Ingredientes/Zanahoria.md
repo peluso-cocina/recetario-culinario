@@ -22,7 +22,11 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Ensaladilla rusa]]"
+  - "[[Guiso de lentejas]]"
+  - "[[Hummus express]]"
+  - "[[No pollo al curry]]"
 base: "[[Ingredientes.base]]"
 ---
 

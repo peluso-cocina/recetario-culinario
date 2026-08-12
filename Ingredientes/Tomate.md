@@ -15,7 +15,8 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Guiso de lentejas]]"
 base: "[[Ingredientes.base]]"
 ---
 

@@ -8,6 +8,7 @@ etiquetas:
 temporada:
 ingredientes:
   - "[[Ajo]]"
+  - "[[Cebolleta]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:

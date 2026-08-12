@@ -16,7 +16,9 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Ensaladilla rusa]]"
+  - "[[Tortilla de patatas]]"
 base: "[[Ingredientes.base]]"
 ---
 

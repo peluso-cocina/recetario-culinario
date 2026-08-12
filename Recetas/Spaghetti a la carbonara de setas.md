@@ -8,8 +8,8 @@ etiquetas:
   - 
 temporada:
 ingredientes:
-  - "[[Champiñón]]"
   - "[[Cebolla]]"
+  - "[[Champiñón]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:

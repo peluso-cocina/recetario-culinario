@@ -13,7 +13,10 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Risotto a la Milanesa]]"
+  - "[[Risotto al vino tinto]]"
+  - "[[Risotto de calabaza]]"
 base: "[[Ingredientes.base]]"
 ---
 

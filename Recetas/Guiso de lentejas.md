@@ -8,7 +8,11 @@ temporada:
 ingredientes:
   - "[[Ajo]]"
   - "[[Cebolla]]"
-  - "[[Lenteja|Lenteja]]"
+  - "[[Laurel]]"
+  - "[[Lenteja]]"
+  - "[[Pimiento]]"
+  - "[[Tomate]]"
+  - "[[Zanahoria]]"
 coste_racion: 0
 raciones: 4
 info_nutricional:

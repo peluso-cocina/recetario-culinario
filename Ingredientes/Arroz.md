@@ -10,7 +10,13 @@ perecedero: false
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Arroz blanco para acompañar]]"
+  - "[[No pollo al curry]]"
+  - "[[Poke]]"
+  - "[[Risotto a la Milanesa]]"
+  - "[[Risotto al vino tinto]]"
+  - "[[Risotto de calabaza]]"
 base: "[[Ingredientes.base]]"
 ---
 

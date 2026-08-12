@@ -14,7 +14,9 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Bibim guksu]]"
+  - "[[Poke]]"
 base: "[[Ingredientes.base]]"
 ---
 

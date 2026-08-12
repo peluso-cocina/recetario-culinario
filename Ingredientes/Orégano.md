@@ -18,7 +18,9 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Enchiladas norteñas]]"
+  - "[[Tagliatelle ai funghi]]"
 base: "[[Ingredientes.base]]"
 ---
 

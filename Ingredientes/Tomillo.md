@@ -19,7 +19,9 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Enchiladas norteñas]]"
+  - "[[Risotto de calabaza]]"
 base: "[[Ingredientes.base]]"
 ---
 

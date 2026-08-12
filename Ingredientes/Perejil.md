@@ -22,7 +22,8 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Tagliatelle ai funghi]]"
 base: "[[Ingredientes.base]]"
 ---
 

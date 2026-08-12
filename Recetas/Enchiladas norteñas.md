@@ -8,7 +8,12 @@ etiquetas:
   - 
 temporada:
 ingredientes:
-  - 
+  - "[[Aguacate]]"
+  - "[[Chile]]"
+  - "[[Laurel]]"
+  - "[[Orégano]]"
+  - "[[Rábano]]"
+  - "[[Tomillo]]"
 coste_racion: 0
 raciones: 4
 info_nutricional:

@@ -15,7 +15,8 @@ perecedero: true
 conservacion: ""
 alergenos: []
 sustitutos: []
-recetas_relacionadas: []
+recetas_relacionadas:
+  - "[[Poke]]"
 base: "[[Ingredientes.base]]"
 ---
 

@@ -7,7 +7,7 @@ etiquetas:
   - Vegan
 temporada:
 ingredientes:
-  - 
+  - "[[Arroz]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:
