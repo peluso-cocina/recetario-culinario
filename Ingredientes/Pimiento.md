@@ -17,6 +17,7 @@ alergenos: []
 sustitutos: []
 recetas_relacionadas:
   - "[[Guiso de lentejas]]"
+  - "[[Pisto]]"
 base: "[[Ingredientes.base]]"
 ---
 

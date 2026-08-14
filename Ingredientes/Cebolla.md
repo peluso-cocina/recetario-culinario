@@ -27,5 +27,6 @@ recetas_relacionadas:
   - "[[Risotto al vino tinto]]"
   - "[[Risotto de calabaza]]"
   - "[[Spaghetti a la carbonara de setas]]"
+  - "[[Pisto]]"
 base: "[[Ingredientes.base]]"
 ---
