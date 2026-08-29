@@ -5,6 +5,7 @@ tipo_comida:
   - Cena
 etiquetas:
   - Vegan
+  - Acompañamientos
 temporada:
 ingredientes:
   - "[[Arroz]]"

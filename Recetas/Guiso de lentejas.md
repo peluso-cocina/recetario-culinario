@@ -4,6 +4,7 @@ tipo_comida:
   - Almuerzo
 etiquetas:
   - Vegan
+  - Legumbres
 temporada:
 ingredientes:
   - "[[Ajo]]"

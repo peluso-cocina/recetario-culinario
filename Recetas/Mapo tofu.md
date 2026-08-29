@@ -5,6 +5,7 @@ tipo_comida:
 etiquetas:
   - Vegan
   - China
+  - Platos principales
 temporada:
 ingredientes:
   - "[[Ajo]]"

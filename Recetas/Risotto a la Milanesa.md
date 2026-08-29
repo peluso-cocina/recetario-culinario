@@ -5,7 +5,7 @@ tipo_comida:
   - Cena
 etiquetas:
   - Vegetariana
-  - 
+  - Arroces
 temporada:
 ingredientes:
   - "[[Arroz]]"

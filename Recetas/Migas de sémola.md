@@ -2,9 +2,9 @@
 foto:
 tipo_comida:
   - Almuerzo
-  - Cena
 etiquetas:
   - Vegan
+  - Platos principales
 temporada:
   - Junio
   - Julio

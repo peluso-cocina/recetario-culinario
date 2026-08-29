@@ -6,6 +6,7 @@ tipo_comida:
 etiquetas:
   - Vegetariana
   - Vegan
+  - Platos principales
 temporada:
 ingredientes:
   - "[[Arroz]]"

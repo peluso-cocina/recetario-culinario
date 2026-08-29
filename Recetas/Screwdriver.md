@@ -3,7 +3,7 @@ foto: https://substackcdn.com/image/fetch/$s_!_z8Q!,w_1456,c_limit,f_webp,q_auto
 tipo_comida:
   - Bebida
 etiquetas:
-  - Cocktail
+  - Bebidas
 temporada:
   - Noviembre
   - Diciembre
