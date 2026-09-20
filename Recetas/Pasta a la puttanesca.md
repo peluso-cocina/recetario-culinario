@@ -9,6 +9,7 @@ etiquetas:
 temporada:
 ingredientes:
   - "[[Ajo]]"
+  - "[[Pasta seca de trigo]]"
 coste_racion: 0
 raciones: 2
 info_nutricional:
