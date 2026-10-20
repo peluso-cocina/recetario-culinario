@@ -5,6 +5,7 @@ tipo_comida:
 etiquetas:
   - Vegan
   - Platos principales
+  - Española
 temporada:
   - Junio
   - Julio
@@ -32,7 +33,7 @@ dificultad: Baja
 congelable: false
 base: "[[Recetas.base]]"
 ---
-Plato de aprovechamiento de cocina de pobres desde tiempos inmemoriales.
+Plato de aprovechamiento de cocina de pobres desde tiempos inmemoriales. Por alguna razón que desconozco, en la zona de Granada, Almería y Murcia apetece prepararlas cuando llueve.
 
 ## Ingredientes
 
@@ -52,7 +53,7 @@ Plato de aprovechamiento de cocina de pobres desde tiempos inmemoriales.
 
 ## Notas
 
-Se pueden acompañar de [[Melón]], sardinas... Lo que quieras. Esto es un plato que casi le puedes echar lo que quieras.
+Se pueden acompañar de [[Melón]], [[Granada]], sardinas... Lo que quieras. Esto es un plato que casi le puedes echar lo que quieras.
 
 Se puede aumentar proporcionalmente esta receta hasta los comensales deseados, ya que es unos 100 g de sémola por persona y la misma cantidad total en agua con un poco más por si acaso. La única limitación será dónde las prepares, que tendrá que ser una sartén más grande. Yo las hago en un wok grande con fuego de gas para que se reparta mejor el calor pero he llegado a ver hasta hormigoneras de migas.
 
