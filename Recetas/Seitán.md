@@ -53,7 +53,7 @@ Receta base de seitán que te sirve de proteína vegetal para muchos platos que 
 
 Para aportarle sabor puedes usar varias combinaciones de especias y hierbas como se recoje en esta guía de la Seitan Society: https://seitansociety.com/achieve-seitan-umami/
 
-Una vez tengas la bola puedes cortarla en tiras, tacos, filetes, mecharla... o como quieras para conseguir la textura que prefieras.
+Una vez tengas la bola puedes cortarla en tiras, tacos, filetes, mecharla... o como quieras para conseguir la textura que prefieras. Con este seitán suelo preparar por ejemplo el [[No pollo al curry]].
 
 Normalmente de una bola me sale como para 6 raciones de proteína vegetal que puedes separar para congelar para cuando las necesites. Si prefieres no congelarlo puedes guardarlo en un recipiente cubierto de caldo y te puede aguantar como 1 semana en el frigorífico.
 
